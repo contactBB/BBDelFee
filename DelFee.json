@@ -1,4 +1,5 @@
 {
   "status" : 1,
-  "fee" : 2.75,
+  "feeUnformatted" : 275,
+  "feeFormatted" : 2.75,
 }
